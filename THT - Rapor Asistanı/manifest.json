@@ -1,0 +1,23 @@
+{
+  "name": "THT | Rapor Asistanı",
+  "description": "Hazır Rapor Şablonlarının Bulunduğu Bir Eklenti.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+  "action": {
+    "default_title": "THT | Rapor Asistanı",
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.turkhackteam.org/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
