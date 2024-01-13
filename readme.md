@@ -6,8 +6,8 @@
 
 ###
 
-<div align="center">
-  <img height="420" src="https://i.hizliresim.com/gmxqaos.png"  />
+<div align="left">
+  <img height="360" src="https://i.hizliresim.com/gmxqaos.png"  />
 </div>
 
 ###
@@ -16,8 +16,8 @@
 
 ###
 
-<div align="center">
-  <img height="420" src="https://i.hizliresim.com/3dwck81.png"  />
+<div align="left">
+  <img height="360" src="https://i.hizliresim.com/3dwck81.png"  />
 </div>
 
 ###
@@ -26,8 +26,8 @@
 
 ###
 
-<div align="center">
-  <img height="420" src="https://i.hizliresim.com/ly06nrl.png"  />
+<div align="left">
+  <img height="341" src="https://i.hizliresim.com/ly06nrl.png"  />
 </div>
 
 ###
@@ -84,6 +84,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.hizliresim.com/6d960dq.png"  />
 </div>
 
 ###
